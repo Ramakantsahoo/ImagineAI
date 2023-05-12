@@ -32,7 +32,12 @@ This project is licensed under the **MIT License**.
 * OpenAI and the developers who have contributed to the DALL-E project.
 * Please note that this application uses the DALL-E API, which may have its own usage restrictions and terms of service. Make sure to review and comply with the API's guidelines when using the application.
 
-### Sample Image
+<!-- ### Sample Image
 
 <img title="sample" alt="sample-img1" src="ImagineAI_1.png">
-<img title="sample" alt="sample-img2" src="ImagineAI_2.png">
+<img title="sample" alt="sample-img2" src="ImagineAI_2.png"> -->
+
+### Deployed Link
+
+https://imagine-ai-dall-e-2.netlify.app/
+
