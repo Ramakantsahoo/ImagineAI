@@ -34,5 +34,5 @@ This project is licensed under the **MIT License**.
 
 ### Sample Image
 
-<img title="sample" alt="sample-img1" src="Imagine">
-<img title="sample" alt="sample-img2" src="sample.png">
+<img title="sample" alt="sample-img1" src="ImagineAI_1.png">
+<img title="sample" alt="sample-img2" src="ImagineAI_2.png">
