@@ -18,7 +18,7 @@ generating images if we want we can also share it with the community (Within the
 
 * **DALL-E API**: The DALL-E API is used to generate images based on the input words or phrases provided by the users. This API leverages deep learning and generative models to create unique and realistic images. <br>
 
-* **Cloudinary**: Here we used cloudinary to store the images shared by the users to the community build within the application.
+* **Cloudinary**: We employed Cloudinary to store user-shared images for community building within our application.
 
 ## Contribution
 
