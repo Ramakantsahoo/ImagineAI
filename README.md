@@ -40,4 +40,3 @@ This project is licensed under the **MIT License**.
 ### Deployed Link
 
 https://imagine-ai-dall-e-2.netlify.app/
-
